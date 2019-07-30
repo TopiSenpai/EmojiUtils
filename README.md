@@ -11,7 +11,7 @@ public class EmojiUtilsText{
 
   public static void main(String[] args){
     //Get the Emojin as 🦊
-   EmojiUtils.getEmoji("fox");
+    EmojiUtils.getEmoji("fox");
   
     //Get the Emoji as "\uD83E\uDD8A"
     EmojiUtils.getUnicode("fox");
