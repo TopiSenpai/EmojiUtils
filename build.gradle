@@ -1,0 +1,16 @@
+plugins {
+    id 'java-library'
+    id 'com.github.johnrengelman.shadow' version '4.0.4'
+}
+
+version '1.0'
+
+sourceCompatibility = 1.8
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation 'com.google.code.gson:gson:2.8.5'
+}
