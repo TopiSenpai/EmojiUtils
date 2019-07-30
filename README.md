@@ -10,7 +10,7 @@ import de.anteiku.emojiutils.EmojiUtils;
 public class EmojiUtilsText{
 
   public static void main(String[] args){
-    //Get the Emojin as :fox:
+    //Get the Emojin as 🦊
     System.out.println(EmojiUtils.getEmoji("fox"));
   
     //Get the Emoji as "\uD83E\uDD8A"
