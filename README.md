@@ -19,3 +19,5 @@ public class EmojiUtilsText{
 
 }
 ```
+
+Full list of all Emojis supported can be found [here](https://github.com/TopiSenpai/EmojiUtils/blob/master/src/main/resources/emojis.json)
